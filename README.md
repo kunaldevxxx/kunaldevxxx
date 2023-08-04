@@ -56,7 +56,7 @@
 
 <br>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=kunaldevxxx&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kunaldevxxx&bg_color=ffffff&color=4c9e69&line=4c9e56&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img src="https://komarev.com/ghpvc/?username=kunaldevxxx&label=Profile%20views&color=0e75b6&style=flat" alt="kunaldevxxx" />
 
