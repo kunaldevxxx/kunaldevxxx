@@ -37,7 +37,8 @@
 
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kunaldevxxx&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![Kunaldevxx GitHub stats](https://github-readme-stats.vercel.app/api?username=kunaldevxxx&theme=algolia)](https://github.com/kunaldevxxx/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunaldevxxx&theme=algolia)](https://github.com/kunaldevxxx/github-readme-stats) [![kunaldevxxx wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kunaldevxxx&theme=algolia)](https://github.com/kunaldevxxx/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kunaldevxxx&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+ [![Kunaldevxx GitHub stats](https://github-readme-stats.vercel.app/api?username=kunaldevxxx&theme=algolia)](https://github.com/kunaldevxxx/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunaldevxxx&theme=algolia)](https://github.com/kunaldevxxx/github-readme-stats) [![kunaldevxxx wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kunaldevxxx&theme=algolia)](https://github.com/kunaldevxxx/github-readme-stats)
 
 <br>
 
