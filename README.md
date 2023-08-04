@@ -1,6 +1,3 @@
-<div align="center" width="50">
-    <img alt="#" src="./assets/oh hi there.png" width="300"/>
-</div>
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Kunal Khare</h1>
 
 ![GitHub followers](https://img.shields.io/github/followers/kunaldevxxx?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/kunaldevxxx?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=kunaldevxxx.repoName) <img src="https://komarev.com/ghpvc/?username=kunaldevxxx" alt="kunaldevxxx" />
@@ -59,10 +56,3 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kunaldevxxx&bg_color=ffffff&color=4c9e69&line=4c9e56&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img src="https://komarev.com/ghpvc/?username=kunaldevxxx&label=Profile%20views&color=0e75b6&style=flat" alt="kunaldevxxx" />
-
-  
----
-
-Credit: [kunaldevxxx](https://github.com/kunaldevxxx)
-
-Last edited on: 30/06/2022
