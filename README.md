@@ -4,8 +4,8 @@
 
 ## About Me :
 
-- 🏢 I am currently working as a **Web Developer** at [LaserPay]
-- 🏢 Former **SDE-1** at [NoQs Digital]
+- 🏢 I am currently Seeking Opportunities
+- 🏢 Former **FrontEnd Developer** at [Turquoise Automation],**SDE-1** at [NoQs Digital],**ME** at [Web3Carnival]
 - 🎓 Studies for Bachelor Of Technology at[Shri Govindram Institute Of Technology And Science]
 - 🎓 Studies for Diploma In Computer Science at [RGPV,Bhopal]
 - 🏡'Lives in **Indore India**
