@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunaldevxxx" alt="kunaldevxxx" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/kunal_devxx" target="blank"><img src="https://img.shields.io/twitter/follow/kunal_devxx?logo=twitter&style=for-the-badge" alt="kunal_devxx" /></a> </p>
-<p align="left"> <a href="https://linkedin.com/kunaldevxx" target="blank"><img src="https://img.shields.io/twitter/follow/kunal_devxx?logo=linkedin&style=for-the-badge" alt="kunal_devxx" /></a> </p>
+<p align="left"> <a href="https://linkedin.com/kunaldevxxx" target="blank"><img src="https://img.shields.io/twitter/follow/kunal_devxx?logo=linkedin&style=for-the-badge" alt="kunal_devxx" /></a> </p>
 
 - 🔭 I’m currently working on **Multiple Open Source Projects**
 
