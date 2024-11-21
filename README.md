@@ -5,7 +5,7 @@
 ### 🌟 About Me
 ```javascript
 const kunalKhare = {
-  role: "Front-End Alchemist",
+  role: "Full-Stack Alchemist",
   mission: "Crafting digital experiences that inspire and innovate",
   philosophy: "Code is art, and every project tells a story"
 }
