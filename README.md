@@ -15,7 +15,7 @@ I'm a passionate front-end developer dedicated to creating innovative web soluti
 
 ### 🌱 Currently Working On
 - Open Source Projects
-- Learning Next.js, Three.js, and Blockchain Technologies
+- Learning Next.js,Typescript,CI/CD Pipelines
 - Expanding Full-Stack Development Skills
 
 ### 📊 GitHub Statistics
