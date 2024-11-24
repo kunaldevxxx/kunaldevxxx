@@ -27,7 +27,6 @@ const kunalKhare = {
 - 💡 Solving Complex Problems with Elegant Solutions
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kunaldevxxx&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=issues&custom_title=GitHub%20Journey%20Since%202022)
 
 ### 💻 Most Used Languages
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kunaldevxxx&layout=compact&theme=radical&langs_count=8&card_width=445)](https://github.com/kunaldevxxx/github-readme-stats)
