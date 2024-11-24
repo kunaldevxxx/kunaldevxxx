@@ -7,45 +7,12 @@
 const kunalKhare = {
   role: "Full-Stack Alchemist",
   mission: "Crafting digital experiences that inspire and innovate",
-  philosophy: "Code is art, and every project tells a story"
-}
-🛠️ Technological Forge
-
-
-🚀 Current Mission Control
-🌐 Pioneering Open Source Projects
-🧠 Deep Diving into Next.js & TypeScript
-🔧 Architecting Robust CI/CD Pipelines
-💡 Turning Complex Problems into Elegant Solutions
-📊 Code Chronicles
-
-
-🔥 Coding Momentum
-
-
-🌍 Digital Coordinates
-
-
-💎 Skill Constellation
-🎨 Pixel-Perfect Front-End Architectures
-🌐 Open SourceAlchemy
-🚀 Web Experience Engineering
-⚡ Performance Optimization Wizardry
-📱 Responsive Design Mastery
-🏆 Epic Achievements
-🌟 Open Source Contributor Extraordinaire
-🔬 Technology Exploration Maverick
-🏗️ Scalable Solution Architect
-### 🌟 About Me
-```javascript
-const kunalKhare = {
-  role: "Full-Stack Alchemist",
-  mission: "Crafting digital experiences that inspire and innovate",
-  philosophy: "Code is art, and every project tells a story"
-}
+  philosophy: "Code is art, and every project tells a story",
+  journey: "Coding since 2022"
+};
 ```
 
-### 🛠️ Technological Forge
+### 🛠️ Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -53,37 +20,44 @@ const kunalKhare = {
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🚀 Current Mission Control
-- 🌐 Pioneering Open Source Projects
-- 🧠 Deep Diving into Next.js & TypeScript
-- 🔧 Architecting Robust CI/CD Pipelines
-- 💡 Turning Complex Problems into Elegant Solutions
+### 🚀 Current Focus
+- 🌐 Contributing to Open Source Projects
+- 🧠 Mastering Next.js & TypeScript
+- 🔧 Building Robust CI/CD Pipelines
+- 💡 Solving Complex Problems with Elegant Solutions
 
-### 📊 Code Chronicles
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kunaldevxxx&layout=compact&theme=radical)
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kunaldevxxx&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=issues&custom_title=GitHub%20Journey%20Since%202022)
 
-### 🔥 Coding Momentum
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kunaldevxxx&theme=radical)
+### 💻 Most Used Languages
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kunaldevxxx&layout=compact&theme=radical&langs_count=8&card_width=445)](https://github.com/kunaldevxxx/github-readme-stats)
 
-### 🌍 Digital Coordinates
+### 🔥 Contribution Streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kunaldevxxx&theme=radical&date_format=M%20j%5B%2C%20Y%5D&dates=737373&ring=e2486d&fire=e2486d&stroke=00000000&currStreakNum=e2486d&currStreakLabel=e2486d&border=00000000)](https://git.io/streak-stats)
+
+### 🌍 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunaldevxxx/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kunal_devxx)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:KunalKhare2004@gmail.com)
 
-### 💎 Skill Constellation
-- 🎨 Pixel-Perfect Front-End Architectures
-- 🌐 Open SourceAlchemy
-- 🚀 Web Experience Engineering
-- ⚡ Performance Optimization Wizardry
-- 📱 Responsive Design Mastery
+### 💎 Core Competencies
+- 🎨 Pixel-Perfect Front-End Development
+- 🌐 Open Source Contribution
+- 🚀 Web Performance Optimization
+- ⚡ Responsive Design Implementation
+- 📱 Cross-Platform Development
 
-### 🏆 Epic Achievements
-- 🌟 Open Source Contributor Extraordinaire
-- 🔬 Technology Exploration Maverick
-- 🏗️ Scalable Solution Architect
+### 🏆 Achievements
+- 🌟 Active Open Source Contributor
+- 🔬 Tech Innovation Explorer
+- 🏗️ Solution Architecture Designer
 
 ---
 
-**Ready to Transform Ideas into Digital Realities! ✨**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kunaldevxxx&color=blueviolet&style=flat-square" alt="Profile Views" />
+</p>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=kunaldevxxx&color=blueviolet&style=flat-square)
+<p align="center">
+  <i>✨ Ready to Transform Ideas into Digital Realities! ✨</i>
+</p>
