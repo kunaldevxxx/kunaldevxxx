@@ -9,6 +9,40 @@ const kunalKhare = {
   mission: "Crafting digital experiences that inspire and innovate",
   philosophy: "Code is art, and every project tells a story"
 }
+🛠️ Technological Forge
+
+
+🚀 Current Mission Control
+🌐 Pioneering Open Source Projects
+🧠 Deep Diving into Next.js & TypeScript
+🔧 Architecting Robust CI/CD Pipelines
+💡 Turning Complex Problems into Elegant Solutions
+📊 Code Chronicles
+
+
+🔥 Coding Momentum
+
+
+🌍 Digital Coordinates
+
+
+💎 Skill Constellation
+🎨 Pixel-Perfect Front-End Architectures
+🌐 Open SourceAlchemy
+🚀 Web Experience Engineering
+⚡ Performance Optimization Wizardry
+📱 Responsive Design Mastery
+🏆 Epic Achievements
+🌟 Open Source Contributor Extraordinaire
+🔬 Technology Exploration Maverick
+🏗️ Scalable Solution Architect
+### 🌟 About Me
+```javascript
+const kunalKhare = {
+  role: "Full-Stack Alchemist",
+  mission: "Crafting digital experiences that inspire and innovate",
+  philosophy: "Code is art, and every project tells a story"
+}
 ```
 
 ### 🛠️ Technological Forge
@@ -26,7 +60,6 @@ const kunalKhare = {
 - 💡 Turning Complex Problems into Elegant Solutions
 
 ### 📊 Code Chronicles
-![Kunal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kunaldevxxx&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kunaldevxxx&layout=compact&theme=radical)
 
 ### 🔥 Coding Momentum
