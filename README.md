@@ -33,7 +33,8 @@ const kunalKhare = {
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kunaldevxxx&layout=compact&theme=radical&langs_count=8&card_width=445)](https://github.com/kunaldevxxx/github-readme-stats)
 
 ### 🔥 Contribution Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kunaldevxxx&theme=radical&date_format=M%20j%5B%2C%20Y%5D&dates=737373&ring=e2486d&fire=e2486d&stroke=00000000&currStreakNum=e2486d&currStreakLabel=e2486d&border=00000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kunaldevxxx&theme=radical&date_format=M%20j%5B%2C%20Y%5D&dates=737373&ring=e2486d&fire=e2486d&stroke=00000000&currStreakNum=e2486d&currStreakLabel=e2486d&border=00000000&start_year=2022)](https://git.io/streak-stats)
+
 
 ### 🌍 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunaldevxxx/)
