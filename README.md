@@ -27,7 +27,8 @@ const kunalKhare = {
 - 💡 Solving Complex Problems with Elegant Solutions
 
 ### 📊 GitHub Stats
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=kunaldevxxx)](https://github.com/kunaldevxxx/github-profile-trophy)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kunaldevxxx)](https://github.com/kunaldevxxx/github-readme-activity-graph)
 ### 💻 Most Used Languages
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kunaldevxxx&layout=compact&theme=radical&langs_count=8&card_width=445)](https://github.com/kunaldevxxx/github-readme-stats)
 
