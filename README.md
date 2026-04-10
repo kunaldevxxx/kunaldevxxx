@@ -1,151 +1,110 @@
-# 👋 Hi there! I'm Kunal Khare
+# Kunal Khare
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=700&color=E2486D&center=true&multiline=true&width=700&lines=Site+Reliability+Engineer+%7C+Cloud+Native+%7C+AI+Ops+Enthusiast;Certified+in+Kubernetes%2C+AWS%2C+DevOps+%26+AI+Technologies" alt="Typing SVG" />
-</p>
-
----
-
-## 💡 Transforming Reliability, Cloud & AI into Business Impact
-
-### 🌟 About Me
-
-```yaml
-name: Kunal Khare
-title: Associate Site Reliability Engineer (ASRE) @ Improving (Infracloud)
-certifications:
-  - KCNA: Kubernetes and Cloud Native Associate
-  - CKA: Certified Kubernetes Administrator
-  - CKAD: Certified Kubernetes Application Developer
-  - AWS Solutions Architect – Associate
-  - Google Cloud Professional Cloud Architect
-  - HashiCorp Certified: Terraform Associate
-  - Linux Foundation Certified SysAdmin (LFCS)
-  - Docker Certified Associate
-  - Prometheus Certified Associate
-  - Certified in GitHub Actions, ArgoCD & GitOps
-previous_experience:
-  - Atlan (DataOps, Cloud Automation)
-  - Beamer (Product Communication, Infra)
-philosophy: |
-  "Reliability is not a feature—it's a culture.
-   Automate. Observe. Improve. Repeat."
-```
+**Infrastructure & Distributed Systems Engineer**  
+OpenStack • Kubernetes/GKE • Temporal • Networking • React + Three.js
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 01 // About
 
-**Cloud & Orchestration:**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+I like understanding *how things actually work* under the hood — from OpenStack Cinder’s I/O path and Neutron’s data plane, to Temporal’s event-sourced workflow engine and Kubernetes node economics.
 
-**DevOps & Automation:**  
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Argo Workflows](https://img.shields.io/badge/Argo_Workflows-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-![FluxCD](https://img.shields.io/badge/FluxCD-0098DB?style=for-the-badge&logo=fluxcd&logoColor=white)
+I mostly work across:
 
-**Observability & Monitoring:**  
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elastic-stack&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
-![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
+- **Cloud infrastructure** – OpenStack, Kubernetes/GKE, load balancing, DNS, storage
+- **Control-plane orchestration** – long-running workflows, migrations, durable execution
+- **Developer experience** – CI/CD, ephemeral environments, good debugging stories
+- **Frontend for infra** – React, Framer Motion, Three.js for expressive, data‑heavy UIs
 
-**Programming Languages:**  
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-000000?style=for-the-badge&logo=yaml&logoColor=white)
+If it involves packets, queues, or event logs, I’m interested.
 
 ---
 
-## 🚀 What I'm Doing Now
+## 02 // What I’m Working On
 
-- 🛡️ Building resilient, scalable, and intelligent platforms as ASRE @ Improving (Infracloud)
-- 🤖 Merging SRE practices with AI/ML Ops for smarter observability and automation
-- 🔄 Implementing GitOps, policy-as-code, and continuous compliance
-- 📊 Championing advanced monitoring, cost control, and cloud security
-- 🌍 Evangelizing cloud-native, DevOps, and SRE best practices
-
----
-
-## 🏅 Certifications
-
-| Certification | Issuer |
-| --- | --- |
-| KCNA, CKA, CKAD | CNCF |
-| AWS Solutions Architect – Associate & DevOps Pro | AWS |
-| Google Cloud Professional Cloud Architect | Google Cloud |
-| HashiCorp Certified: Terraform Associate | HashiCorp |
-| Docker Certified Associate | Docker |
-| Azure Fundamentals, AI-900 | Microsoft |
-| Prometheus Certified Associate | CNCF |
-| Linux Foundation Certified SysAdmin (LFCS) | Linux Foundation |
+- **Infra storytelling through deep‑dive blogs**  
+  Turning hard‑won operational knowledge into long, diagram‑heavy posts.
+- **Cloud-native control planes**  
+  Temporal, Kubernetes, and OpenStack working together in real production failure modes.
+- **High‑signal personal tooling**  
+  Small scripts and dashboards that make debugging clusters and workflows less painful.
 
 ---
 
-## 💎 Core Competencies
+## 03 // Selected Writing
 
-- 🌐 Cloud & Platform Engineering (AWS, GCP, Azure, Hybrid Cloud)
-- ☸️ Kubernetes Operations, Automation & GitOps
-- 🛡️ Observability, Monitoring, Incident Management (AIOps)
-- 🏗️ Infrastructure as Code (Terraform, Pulumi, CDK)
-- 🔒 Security Automation, Policy as Code (OPA, Kyverno)
-- 📦 CI/CD: GitHub Actions, Jenkins, GitLab, ArgoCD
-- 🛠️ DevOps Toolchain Management
-- 🤝 Cross-team Collaboration & Mentorship
+Long‑form posts from my portfolio (highly technical, implementation‑focused):
 
----
+- **Inside OpenStack Cinder + Glance: The Real Boot‑from‑Volume Pipeline**  
+  From `openstack server create --boot-from-volume` to libvirt domain XML, tracing every step across Nova, Cinder, Glance, and storage drivers.  
+  `https://kunal-khare-sre.netlify.app/blog/openstack-cinder-glance-boot-from-volume-pipeline`
 
-## 🏆 Achievements
+- **Why We Chose Temporal Over Argo Workflows and Airflow for Control‑Plane Orchestration**  
+  A practical comparison based on long‑running infra workflows, not marketing checklists.  
+  `https://kunal-khare-sre.netlify.app/blog/temporal-vs-argo-airflow-control-plane-orchestration`
 
-- 🏆 Led and automated end-to-end cloud migrations for SaaS platforms
-- ⚡ Designed highly available, self-healing, auto-scaling Kubernetes clusters
-- 🤖 Integrated AI-driven monitoring and predictive alerting
-- 🌟 Speaker at DevOps & Cloud Native meetups
-- 🏅 Active contributor to open source SRE and DevOps projects
+- **Why We Moved from App Engine to GKE: A Kubernetes Architecture Deep Dive**  
+  Requests/limits, node pools, CUDs, HPAs, Helm, and ephemeral PR environments.  
+  `https://kunal-khare-sre.netlify.app/blog/app-engine-to-gke-kubernetes-architecture`
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kunaldevxxx&theme=algolia" alt="Trophy" />
-  <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kunaldevxxx&theme=rogue" alt="Activity Graph" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunaldevxxx&layout=compact&theme=radical&langs_count=8&card_width=445" alt="Top Languages" />
-  <br />
-</p>
+- **Inside OpenStack Networking: How Neutron, Octavia, and Designate Actually Work Together**  
+  ML2/OVN pipeline, amphora load balancers, and DNS-as-a-Service integration.  
+  `https://kunal-khare-sre.netlify.app/blog/openstack-networking-neutron-octavia-designate`
 
 ---
 
-## 🌍 Let's Connect
+## 04 // Stack
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/kunaldevxxx/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/kunal_devxx"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="mailto:KunalKhare2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+**Core infrastructure**
+
+- OpenStack (Nova, Cinder, Glance, Neutron, Octavia, Designate)
+- Kubernetes / GKE, Helm, Horizontal Pod Autoscaler
+- Temporal (durable workflows), Postgres, Redis
+- Linux networking, iptables/OVN, DNS (PowerDNS/BIND), NGINX/HAProxy
+
+**Application & frontend**
+
+- React 18, Vite, React Router
+- Tailwind CSS, Framer Motion
+- Three.js, React Three Fiber, @react-three/drei
+- React Markdown, remark-gfm
+
+**Tooling & CI/CD**
+
+- GitHub Actions, ephemeral PR environments
+- Docker, container image pipelines
+- ESLint, TypeScript typings for React, PostCSS
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kunaldevxxx&color=blueviolet&style=flat-square" alt="Profile Views" />
-</p>
+## 05 // Projects & Experiments
 
-<p align="center">
-  <i>✨ Let's make reliability, automation, and AI the new normal! ✨</i>
-</p>
+- **Personal Portfolio** – Built with React + Vite + Tailwind + Framer Motion + Three.js  
+  A single‑page experience with 3D visuals, animated sections, and a blog powered by markdown‑like content.
+
+- **Infra Deep Dives** – This repo / blog content  
+  Opinionated, long‑form docs for:
+  - OpenStack internals (storage, networking, LBaaS, DNS)
+  - Kubernetes resource economics and autoscaling
+  - Temporal workflows for infra control planes
+
+> I tend to prefer “one really good, long explanation” over lots of shallow posts.
+
+---
+
+## 06 // How I Like to Work
+
+- **End‑to‑end ownership** – from design doc → infra → code → observability → post‑mortem.
+- **Production‑driven design** – start from failure modes and operational constraints.
+- **Readable systems** – logs, metrics, traces, and dashboards that actually answer questions.
+- **High‑quality docs** – diagrams + narratives that new engineers can rely on at 3am.
+
+---
+
+## 07 // Contact
+
+- **Portfolio:** `https://kunal-khare-sre.netlify.app/`  
+- **LinkedIn:** `https://www.linkedin.com/in/kunaldevxxx/`  
+- **Email:** `kunalkhare2004@gmail.com`
+
+If you’re working on infrastructure control planes, OpenStack/Kubernetes migrations, or durable workflow engines and want to trade notes, I’m always up for a technical chat.
